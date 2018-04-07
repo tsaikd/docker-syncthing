@@ -36,4 +36,6 @@ syncthing:
 
 See http://docs.syncthing.net/users/firewall.html for more PORT information
 
+* binary download from https://github.com/syncthing/syncthing/releases
+
 [syncthing]: https://syncthing.net/
